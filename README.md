@@ -12,4 +12,9 @@
 - Criar Ponto de Restauração: Embora o procedimento seja seguro, recomendamos criar um ponto de restauração do sistema. Assim, você pode reverter qualquer mudança indesejada e manter a integridade do computador.
 
 
--Com a expertise de zwhitezinn e Memphis, este otimizador oferece uma solução robusta para manter seu sistema sempre em alto desempenho. Otimize agora e experimente a diferença!
+- Com a expertise de zwhitezinn e Memphis, este otimizador oferece uma solução robusta para manter seu sistema sempre em alto desempenho. Otimize agora e experimente a diferença!
+
+<h3 align="center"><i>Optimizer Preview</i></h3>
+<p align="center">
+<img src="https://github.com/kzwhitezinn/optimizer-collab-edition/blob/main/optimizer.png"/>
+</p>
